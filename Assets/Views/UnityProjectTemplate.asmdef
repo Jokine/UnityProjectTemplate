@@ -1,0 +1,19 @@
+{
+    "name": "UnityProjectTemplate",
+    "references": [
+        "GUID:b09a64c3780842949aa815ca490880f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "UniAgile.Application.dll",
+        "UniAgile.Observable.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
